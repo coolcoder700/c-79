@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: deepskyblue;
+    
+}
+input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sortButton{
+    display:none;
+}
